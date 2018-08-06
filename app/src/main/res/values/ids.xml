@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="buttonOne" type="id">buttonOne</item>
+    <item name="buttonTwo" type="id">buttonTwo</item>
+    <item name="buttonThree" type="id">buttonThree</item>
+    <item name="buttonFour" type="id">buttonFour</item>
+    <item name="buttonFive" type="id">buttonFive</item>
+    <item name="buttonSix" type="id">buttonSix</item>
+    <item name="buttonSeven" type="id">buttonSeven</item>
+    <item name="buttonEight" type="id">buttonEight</item>
+    <item name="buttonNine" type="id">buttonNine</item>
+    <item name="buttonZero" type="id">buttonZero</item>
+    <item name="buttonEqual" type="id">buttonEqual</item>
+    <item name="buttonMultiply" type="id">buttonMultiply</item>
+    <item name="buttonDivide" type="id">buttonDivide</item>
+    <item name="buttonAdd" type="id">buttonAdd</item>
+    <item name="buttonSubtract" type="id">buttonSubtract</item>
+</resources>
